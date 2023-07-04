@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\bin\Debug\net7.0\ReturnValueAndParameterMethod.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\bin\Debug\net7.0\ReturnValueAndParameterMethod.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\bin\Debug\net7.0\ReturnValueAndParameterMethod.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\bin\Debug\net7.0\ReturnValueAndParameterMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\bin\Debug\net7.0\ReturnValueAndParameterMethod.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\refint\ReturnValueAndParameterMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ReturnValueAndParameterMethod.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ReturnValueAndParameterMethod\obj\Debug\net7.0\ref\ReturnValueAndParameterMethod.dll

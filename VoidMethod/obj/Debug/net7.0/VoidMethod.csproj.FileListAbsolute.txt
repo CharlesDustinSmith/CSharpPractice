@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\bin\Debug\net7.0\VoidMethod.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\bin\Debug\net7.0\VoidMethod.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\bin\Debug\net7.0\VoidMethod.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\bin\Debug\net7.0\VoidMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\bin\Debug\net7.0\VoidMethod.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\refint\VoidMethod.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\VoidMethod.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VoidMethod\obj\Debug\net7.0\ref\VoidMethod.dll

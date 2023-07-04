@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\bin\Debug\net7.0\VirtualOverrideDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\refint\VirtualOverrideDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\VirtualOverrideDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VirtualOverrideDemo\obj\Debug\net7.0\ref\VirtualOverrideDemo.dll

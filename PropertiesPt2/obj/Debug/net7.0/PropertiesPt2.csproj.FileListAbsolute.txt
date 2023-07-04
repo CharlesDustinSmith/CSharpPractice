@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\bin\Debug\net7.0\PropertiesPt2.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\bin\Debug\net7.0\PropertiesPt2.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\bin\Debug\net7.0\PropertiesPt2.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\bin\Debug\net7.0\PropertiesPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\bin\Debug\net7.0\PropertiesPt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\refint\PropertiesPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\PropertiesPt2.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\PropertiesPt2\obj\Debug\net7.0\ref\PropertiesPt2.dll

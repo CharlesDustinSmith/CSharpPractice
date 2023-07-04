@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\bin\Debug\net7.0\FileIOc.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\bin\Debug\net7.0\FileIOc.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\bin\Debug\net7.0\FileIOc.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\bin\Debug\net7.0\FileIOc.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\bin\Debug\net7.0\FileIOc.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\refint\FileIOc.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\FileIOc.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\FileIOc\obj\Debug\net7.0\ref\FileIOc.dll

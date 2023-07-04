@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\bin\Debug\net7.0\DelegatesDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\refint\DelegatesDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\DelegatesDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemo\obj\Debug\net7.0\ref\DelegatesDemo.dll

@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\bin\Debug\net7.0\QueueDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\bin\Debug\net7.0\QueueDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\bin\Debug\net7.0\QueueDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\bin\Debug\net7.0\QueueDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\bin\Debug\net7.0\QueueDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\refint\QueueDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\QueueDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\QueueDemo\obj\Debug\net7.0\ref\QueueDemo.dll

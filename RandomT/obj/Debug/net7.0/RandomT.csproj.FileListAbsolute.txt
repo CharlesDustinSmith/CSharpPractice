@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\bin\Debug\net7.0\RandomT.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\bin\Debug\net7.0\RandomT.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\bin\Debug\net7.0\RandomT.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\bin\Debug\net7.0\RandomT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\bin\Debug\net7.0\RandomT.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\refint\RandomT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\RandomT.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RandomT\obj\Debug\net7.0\ref\RandomT.dll

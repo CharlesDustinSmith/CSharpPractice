@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\bin\Debug\net7.0\ConstantsC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\bin\Debug\net7.0\ConstantsC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\bin\Debug\net7.0\ConstantsC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\bin\Debug\net7.0\ConstantsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\bin\Debug\net7.0\ConstantsC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\refint\ConstantsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ConstantsC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ConstantsC\obj\Debug\net7.0\ref\ConstantsC.dll

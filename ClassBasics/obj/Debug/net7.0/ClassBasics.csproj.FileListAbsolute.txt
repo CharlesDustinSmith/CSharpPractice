@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\bin\Debug\net7.0\ClassBasics.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\bin\Debug\net7.0\ClassBasics.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\bin\Debug\net7.0\ClassBasics.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\bin\Debug\net7.0\ClassBasics.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\bin\Debug\net7.0\ClassBasics.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\refint\ClassBasics.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ClassBasics.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ClassBasics\obj\Debug\net7.0\ref\ClassBasics.dll

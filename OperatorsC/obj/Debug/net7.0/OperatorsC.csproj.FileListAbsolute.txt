@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\bin\Debug\net7.0\OperatorsC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\bin\Debug\net7.0\OperatorsC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\bin\Debug\net7.0\OperatorsC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\bin\Debug\net7.0\OperatorsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\bin\Debug\net7.0\OperatorsC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\refint\OperatorsC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\OperatorsC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\OperatorsC\obj\Debug\net7.0\ref\OperatorsC.dll

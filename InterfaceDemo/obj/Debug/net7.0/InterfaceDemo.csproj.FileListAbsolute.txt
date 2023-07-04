@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\bin\Debug\net7.0\InterfaceDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\refint\InterfaceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\InterfaceDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InterfaceDemo\obj\Debug\net7.0\ref\InterfaceDemo.dll

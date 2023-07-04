@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\bin\Debug\net7.0\IEnumerableDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\bin\Debug\net7.0\IEnumerableDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\bin\Debug\net7.0\IEnumerableDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\bin\Debug\net7.0\IEnumerableDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\bin\Debug\net7.0\IEnumerableDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\refint\IEnumerableDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\IEnumerableDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IEnumerableDemo\obj\Debug\net7.0\ref\IEnumerableDemo.dll

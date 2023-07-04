@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\bin\Debug\net7.0\EnumC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\bin\Debug\net7.0\EnumC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\bin\Debug\net7.0\EnumC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\bin\Debug\net7.0\EnumC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\bin\Debug\net7.0\EnumC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\refint\EnumC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\EnumC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnumC\obj\Debug\net7.0\ref\EnumC.dll

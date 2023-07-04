@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\bin\Debug\net7.0\MathC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\bin\Debug\net7.0\MathC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\bin\Debug\net7.0\MathC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\bin\Debug\net7.0\MathC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\bin\Debug\net7.0\MathC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\refint\MathC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\MathC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MathC\obj\Debug\net7.0\ref\MathC.dll

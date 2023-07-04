@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\bin\Debug\net7.0\myProgram.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\bin\Debug\net7.0\myProgram.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\bin\Debug\net7.0\myProgram.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\bin\Debug\net7.0\myProgram.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\bin\Debug\net7.0\myProgram.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\refint\myProgram.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\myProgram.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\IntFloatDouble\myProgram\myProgram\obj\Debug\net7.0\ref\myProgram.dll

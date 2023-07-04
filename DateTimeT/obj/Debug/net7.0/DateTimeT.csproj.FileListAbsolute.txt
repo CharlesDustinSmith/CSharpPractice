@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\bin\Debug\net7.0\DateTimeT.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\bin\Debug\net7.0\DateTimeT.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\bin\Debug\net7.0\DateTimeT.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\bin\Debug\net7.0\DateTimeT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\bin\Debug\net7.0\DateTimeT.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\refint\DateTimeT.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\DateTimeT.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DateTimeT\obj\Debug\net7.0\ref\DateTimeT.dll

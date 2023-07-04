@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\bin\Debug\net7.0\ParamsExample.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\bin\Debug\net7.0\ParamsExample.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\bin\Debug\net7.0\ParamsExample.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\bin\Debug\net7.0\ParamsExample.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\bin\Debug\net7.0\ParamsExample.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\refint\ParamsExample.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ParamsExample.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ParamsExample\obj\Debug\net7.0\ref\ParamsExample.dll

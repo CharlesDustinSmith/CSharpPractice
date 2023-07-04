@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\bin\Debug\net7.0\DictionaryC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\bin\Debug\net7.0\DictionaryC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\bin\Debug\net7.0\DictionaryC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\bin\Debug\net7.0\DictionaryC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\bin\Debug\net7.0\DictionaryC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\refint\DictionaryC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\DictionaryC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DictionaryC\obj\Debug\net7.0\ref\DictionaryC.dll

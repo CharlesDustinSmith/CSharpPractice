@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\bin\Debug\net7.0\HashtablesC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\bin\Debug\net7.0\HashtablesC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\bin\Debug\net7.0\HashtablesC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\bin\Debug\net7.0\HashtablesC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\bin\Debug\net7.0\HashtablesC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\refint\HashtablesC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\HashtablesC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\HashtablesC\obj\Debug\net7.0\ref\HashtablesC.dll

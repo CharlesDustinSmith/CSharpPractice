@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\bin\Debug\net7.0\TryAndCatchC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\bin\Debug\net7.0\TryAndCatchC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\bin\Debug\net7.0\TryAndCatchC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\bin\Debug\net7.0\TryAndCatchC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\bin\Debug\net7.0\TryAndCatchC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\refint\TryAndCatchC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\TryAndCatchC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\TryAndCatchC\obj\Debug\net7.0\ref\TryAndCatchC.dll

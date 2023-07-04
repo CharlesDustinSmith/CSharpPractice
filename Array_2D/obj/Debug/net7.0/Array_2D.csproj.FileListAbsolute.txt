@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\bin\Debug\net7.0\Array_2D.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\bin\Debug\net7.0\Array_2D.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\bin\Debug\net7.0\Array_2D.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\bin\Debug\net7.0\Array_2D.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\bin\Debug\net7.0\Array_2D.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\refint\Array_2D.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\Array_2D.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Array_2D\obj\Debug\net7.0\ref\Array_2D.dll

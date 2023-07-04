@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\bin\Debug\net7.0\MembersC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\bin\Debug\net7.0\MembersC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\bin\Debug\net7.0\MembersC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\bin\Debug\net7.0\MembersC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\bin\Debug\net7.0\MembersC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\refint\MembersC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\MembersC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MembersC\obj\Debug\net7.0\ref\MembersC.dll

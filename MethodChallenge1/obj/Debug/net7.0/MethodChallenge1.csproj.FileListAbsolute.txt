@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\bin\Debug\net7.0\MethodChallenge1.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\bin\Debug\net7.0\MethodChallenge1.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\bin\Debug\net7.0\MethodChallenge1.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\bin\Debug\net7.0\MethodChallenge1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\bin\Debug\net7.0\MethodChallenge1.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\refint\MethodChallenge1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\MethodChallenge1.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\MethodChallenge1\obj\Debug\net7.0\ref\MethodChallenge1.dll

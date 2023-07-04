@@ -1,0 +1,5 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Hashtables\obj\Debug\net7.0\Hashtables.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Hashtables\obj\Debug\net7.0\Hashtables.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Hashtables\obj\Debug\net7.0\Hashtables.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Hashtables\obj\Debug\net7.0\Hashtables.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Hashtables\obj\Debug\net7.0\Hashtables.csproj.CoreCompileInputs.cache

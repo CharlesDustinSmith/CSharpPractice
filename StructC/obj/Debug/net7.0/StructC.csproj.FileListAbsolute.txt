@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\bin\Debug\net7.0\StructC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\bin\Debug\net7.0\StructC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\bin\Debug\net7.0\StructC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\bin\Debug\net7.0\StructC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\bin\Debug\net7.0\StructC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\refint\StructC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\StructC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StructC\obj\Debug\net7.0\ref\StructC.dll

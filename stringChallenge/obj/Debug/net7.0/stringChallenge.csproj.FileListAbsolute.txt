@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\bin\Debug\net7.0\stringChallenge.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\bin\Debug\net7.0\stringChallenge.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\bin\Debug\net7.0\stringChallenge.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\bin\Debug\net7.0\stringChallenge.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\bin\Debug\net7.0\stringChallenge.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\refint\stringChallenge.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\stringChallenge.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\stringChallenge\obj\Debug\net7.0\ref\stringChallenge.dll

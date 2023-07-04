@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\bin\Debug\net7.0\ArrayListC.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\bin\Debug\net7.0\ArrayListC.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\bin\Debug\net7.0\ArrayListC.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\bin\Debug\net7.0\ArrayListC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\bin\Debug\net7.0\ArrayListC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\refint\ArrayListC.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ArrayListC.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ArrayListC\obj\Debug\net7.0\ref\ArrayListC.dll

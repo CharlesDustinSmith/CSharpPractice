@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\bin\Debug\net7.0\switchStatement.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\bin\Debug\net7.0\switchStatement.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\bin\Debug\net7.0\switchStatement.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\bin\Debug\net7.0\switchStatement.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\bin\Debug\net7.0\switchStatement.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\refint\switchStatement.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\switchStatement.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\switchStatement\obj\Debug\net7.0\ref\switchStatement.dll

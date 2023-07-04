@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\bin\Debug\net7.0\turnaryOperator.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\bin\Debug\net7.0\turnaryOperator.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\bin\Debug\net7.0\turnaryOperator.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\bin\Debug\net7.0\turnaryOperator.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\bin\Debug\net7.0\turnaryOperator.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\refint\turnaryOperator.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\turnaryOperator.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\turnaryOperator\obj\Debug\net7.0\ref\turnaryOperator.dll

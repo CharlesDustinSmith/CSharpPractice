@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\bin\Debug\net7.0\InheritanceDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\refint\InheritanceDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\InheritanceDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\InheritanceDemo\obj\Debug\net7.0\ref\InheritanceDemo.dll

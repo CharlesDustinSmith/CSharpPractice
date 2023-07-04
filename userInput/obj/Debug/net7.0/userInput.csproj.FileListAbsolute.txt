@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\bin\Debug\net7.0\userInput.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\bin\Debug\net7.0\userInput.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\bin\Debug\net7.0\userInput.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\bin\Debug\net7.0\userInput.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\bin\Debug\net7.0\userInput.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\refint\userInput.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\userInput.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\userInput\obj\Debug\net7.0\ref\userInput.dll

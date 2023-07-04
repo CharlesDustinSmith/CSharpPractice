@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\bin\Debug\net7.0\StacksDemo.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\bin\Debug\net7.0\StacksDemo.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\bin\Debug\net7.0\StacksDemo.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\bin\Debug\net7.0\StacksDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\bin\Debug\net7.0\StacksDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\refint\StacksDemo.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\StacksDemo.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\StacksDemo\obj\Debug\net7.0\ref\StacksDemo.dll

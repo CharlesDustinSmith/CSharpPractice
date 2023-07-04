@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\bin\Debug\net7.0\RegexE.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\bin\Debug\net7.0\RegexE.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\bin\Debug\net7.0\RegexE.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\bin\Debug\net7.0\RegexE.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\bin\Debug\net7.0\RegexE.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\refint\RegexE.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\RegexE.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\RegexE\obj\Debug\net7.0\ref\RegexE.dll

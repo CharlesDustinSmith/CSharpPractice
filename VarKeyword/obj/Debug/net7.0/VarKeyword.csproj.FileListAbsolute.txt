@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\bin\Debug\net7.0\VarKeyword.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\bin\Debug\net7.0\VarKeyword.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\bin\Debug\net7.0\VarKeyword.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\bin\Debug\net7.0\VarKeyword.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\bin\Debug\net7.0\VarKeyword.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\refint\VarKeyword.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\VarKeyword.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\VarKeyword\obj\Debug\net7.0\ref\VarKeyword.dll

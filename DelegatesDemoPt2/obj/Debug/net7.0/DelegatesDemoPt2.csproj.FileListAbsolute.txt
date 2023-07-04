@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\bin\Debug\net7.0\DelegatesDemoPt2.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\bin\Debug\net7.0\DelegatesDemoPt2.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\bin\Debug\net7.0\DelegatesDemoPt2.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\bin\Debug\net7.0\DelegatesDemoPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\bin\Debug\net7.0\DelegatesDemoPt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\refint\DelegatesDemoPt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\DelegatesDemoPt2.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\DelegatesDemoPt2\obj\Debug\net7.0\ref\DelegatesDemoPt2.dll
