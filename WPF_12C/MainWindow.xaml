@@ -7,6 +7,7 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800">
     <Grid>
-        <Button ToolTip="I am a tooltip, I am useful" Width="150" Height="100">Hover For mmore info</Button>
+        <Button ToolTip="I am a tooltip, I am useful" Width="150" Height="100">Hover for more Info</Button>
+        <TextBlock ToolTip="Please Enter your age below" Width="100" Height="100">Age</TextBlock>
     </Grid>
 </Window>
