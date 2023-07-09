@@ -17,7 +17,6 @@
             </CheckBox>
             <CheckBox Name="cbMushrooms" Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mushrooms</CheckBox>
             <CheckBox Name="cbMozzarella" Checked="cbSingleCheckedChanged" Unchecked="cbSingleCheckedChanged">Mozzarella</CheckBox>
-            
         </StackPanel>
     </StackPanel>
 </Window>
