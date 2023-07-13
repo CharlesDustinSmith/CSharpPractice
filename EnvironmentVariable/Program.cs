@@ -9,13 +9,13 @@ namespace EnvironmentVariable
         static void Main(string[] args)
         {
             System.Console.WriteLine("Hello World!");
-	    SetEnvironmentVariable();
+	        SetEnvironmentVariable();
         }
 
         static void SetEnvironmentVariable()
         {
             // Set an environment variable
-            string variableName = "MY_VARIABLE";
+            string variableName = "MY_ENVIRONMENT_VARIABLE";
             string variableValue = "my value";
             Environment.SetEnvironmentVariable(variableName, variableValue, EnvironmentVariableTarget.Process);
 
