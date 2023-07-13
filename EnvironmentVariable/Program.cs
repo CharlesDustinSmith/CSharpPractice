@@ -14,9 +14,12 @@ namespace EnvironmentVariable
 
         static void SetEnvironmentVariable()
         {
+            // Get current directory for the environment variable path
+            string currentDirectory = Directory.GetCurrentDirectory();
+
             // Set an environment variable
             string variableName = "MY_ENVIRONMENT_VARIABLE";
-            string variableValue = "my value";
+            string variableValue = currentDirectory;
             Environment.SetEnvironmentVariable(variableName, variableValue, EnvironmentVariableTarget.Process);
 
             // Read an environment variable
