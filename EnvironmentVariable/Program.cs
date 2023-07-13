@@ -18,7 +18,7 @@ namespace EnvironmentVariable
             string currentDirectory = Directory.GetCurrentDirectory();
 
             // Set an environment variable
-            string variableName = "MY_ENVIRONMENT_VARIABLE";
+            string variableName = "MY_CSHARP_ENVIRONMENT_VARIABLE";
             string variableValue = currentDirectory;
             Environment.SetEnvironmentVariable(variableName, variableValue, EnvironmentVariableTarget.Process);
 
