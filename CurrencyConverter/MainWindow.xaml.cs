@@ -23,6 +23,22 @@ namespace CurrencyConverter
         public MainWindow()
         {
             InitializeComponent();
+            lblCurrency.Content = "Hello World";
+        }
+
+        private void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
+        {
+
+        }
+
+        private void Convert_Click(object sender, RoutedEventArgs e)
+        {
+            lblCurrency.Content = "Hello Button Clicker";
+        }
+
+        private void Clear_Click(object sender, RoutedEventArgs e)
+        {
+
         }
     }
 }

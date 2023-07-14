@@ -19,3 +19,6 @@ C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-wind
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-windows\CurrencyConverter.pdb
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-windows\CurrencyConverter.genruntimeconfig.cache
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-windows\ref\CurrencyConverter.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-windows\App.baml
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\obj\Debug\net7.0-windows\CurrencyConverter.csproj.CopyComplete
