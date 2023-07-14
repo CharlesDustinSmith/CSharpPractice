@@ -6,7 +6,7 @@
         xmlns:local="clr-namespace:CurrencyConverter"
         mc:Ignorable="d"
         Title="Currency Converter" Height="450" Width="800"
-        Icon="C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\Resources\exchange.png">
+        Icon="C:\Users\cdsmi\OneDrive\Documents\CSharp\CurrencyConverter\Resources\currency.png">
     <Grid>
 
     </Grid>
