@@ -18,12 +18,12 @@ namespace EnvironmentVariable
             string currentDirectory = Directory.GetCurrentDirectory();
 
             // Set an environment variable
-            string variableName = "MY_CSHARP_ENVIRONMENT_VARIABLE";
-            string variableValue = currentDirectory;
+            string? variableName = "MY_CSHARP_ENVIRONMENT_VARIABLE";
+            string? variableValue = currentDirectory;
             Environment.SetEnvironmentVariable(variableName, variableValue, EnvironmentVariableTarget.Process);
 
             // Read an environment variable
-            string variableValue = Environment.GetEnvironmentVariable(variableName);
+            variableValue = Environment.GetEnvironmentVariable(variableName);
             if (variableValue != null)
             {
                 Console.WriteLine($"The value of {variableName} is {variableValue}");

@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\bin\Debug\net7.0\EnvironmentVariable.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\bin\Debug\net7.0\EnvironmentVariable.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\bin\Debug\net7.0\EnvironmentVariable.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\bin\Debug\net7.0\EnvironmentVariable.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\bin\Debug\net7.0\EnvironmentVariable.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\refint\EnvironmentVariable.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\EnvironmentVariable.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\EnvironmentVariable\obj\Debug\net7.0\ref\EnvironmentVariable.dll
