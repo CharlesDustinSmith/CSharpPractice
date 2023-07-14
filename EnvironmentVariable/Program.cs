@@ -23,6 +23,7 @@ namespace EnvironmentVariable
             Environment.SetEnvironmentVariable(variableName, variableValue, EnvironmentVariableTarget.Process);
 
             // Read an environment variable
+            variableValue = null;
             variableValue = Environment.GetEnvironmentVariable(variableName);
             if (variableValue != null)
             {
