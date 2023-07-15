@@ -13,6 +13,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using System.Text.RegularExpressions;
 
 namespace CurrencyConverter
 {
@@ -58,20 +59,21 @@ namespace CurrencyConverter
 
         private void NumberValidationTextBox(object sender, TextCompositionEventArgs e)
         {
-            
+            //Regular Expression is used to add regex.
+	        // Add Library using System.Text.RegularExpressions;
+            Regex regex = new Regex("^[0-9]+");
+            e.Handled = regex.IsMatch(e.Text);
         }
 
         private void Convert_Click(object sender, RoutedEventArgs e)
         {
             //Create a variable as ConvertedValue with double data type to store currency converted value
             double ConvertedValue;
-
             //Check amount textbox is Null or Blank
             if (txtCurrency.Text == null || txtCurrency.Text.Trim() == "")
             {
                 //If amount textbox is Null or Blank it will show the below message box   
                 MessageBox.Show("Please Enter Currency", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
-
                 //After clicking on message box OK sets the Focus on amount textbox
                 txtCurrency.Focus();
                 return;
@@ -81,7 +83,6 @@ namespace CurrencyConverter
             {
                 //It will show the message
                 MessageBox.Show("Please Select Currency From", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
-
                 //Set focus on From Combobox
                 cmbFromCurrency.Focus();
                 return;
@@ -91,16 +92,48 @@ namespace CurrencyConverter
             {
                 //It will show the message
                 MessageBox.Show("Please Select Currency To", "Information", MessageBoxButton.OK, MessageBoxImage.Information);
-
                 //Set focus on To Combobox
                 cmbToCurrency.Focus();
                 return;
+            }
+            if (cmbFromCurrency.Text == cmbToCurrency.Text)
+            {
+                //Amount textbox value set in ConvertedValue.
+                //double.parse is used for converting the datatype String To Double.
+                //Textbox text have string and ConvertedValue is double Datatype
+                ConvertedValue = double.Parse(txtCurrency.Text);
+
+                //Show the label converted currency and converted currency name and ToString("N3") is used to place 000 after the dot(.)
+                lblCurrency.Content = cmbToCurrency.Text + " " + ConvertedValue.ToString("N3");
+            }
+            else
+            {
+                //Calculation for currency converter is From Currency value multiply(*) 
+                //With the amount textbox value and then that total divided(/) with To Currency value
+                ConvertedValue = (double.Parse(cmbFromCurrency.SelectedValue.ToString()) * double.Parse(txtCurrency.Text)) / double.Parse(cmbToCurrency.SelectedValue.ToString());
+
+                //Show the label converted currency and converted currency name.
+                lblCurrency.Content = cmbToCurrency.Text + " " + ConvertedValue.ToString("N3");
             }
         }
 
         private void Clear_Click(object sender, RoutedEventArgs e)
         {
-
+		    //ClearControls method is used to clear all controls value
+		    ClearControls();
         }
+
+		//ClearControls method is used to clear all controls value
+		private void ClearControls()
+        {
+            txtCurrency.Text = string.Empty;
+            if (cmbFromCurrency.Items.Count > 0)
+                cmbFromCurrency.SelectedIndex = 0;
+            if (cmbToCurrency.Items.Count > 0)
+                cmbToCurrency.SelectedIndex = 0;
+            lblCurrency.Content = "";
+            txtCurrency.Focus();
+        }
+
     }
 }
