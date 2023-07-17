@@ -17,6 +17,7 @@ using System.Text.RegularExpressions;
 
 namespace CurrencyConverter
 {
+    //This is not working as expected with later try to use mongodb instead of ms sql
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
