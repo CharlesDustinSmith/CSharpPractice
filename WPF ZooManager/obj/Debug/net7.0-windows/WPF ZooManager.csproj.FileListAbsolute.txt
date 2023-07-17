@@ -1,0 +1,7 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\WPF ZooManager.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\WPF ZooManager\App.g.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\WPF ZooManager\MainWindow.g.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\WPF ZooManager_MarkupCompile.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\WPF ZooManager\obj\Debug\net7.0-windows\WPF ZooManager_MarkupCompile.lref

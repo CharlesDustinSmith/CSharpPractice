@@ -29,13 +29,14 @@ namespace WPF_ZooManager
         {
             InitializeComponent();
 
-            string connectionString = ConfigurationManager.ConnectionStrings["Data Source=CharlesSmith\\SQLEXPRESS;Initial Catalog=CharlesCSharpDBTesting;Persist Security Info=True;User ID=sa;Password=***********;Pooling=False"].ConnectionString;
+            string connectionString = "Data Source=CharlesSmith\\SQLEXPRESS;Initial Catalog=CharlesCSharpDBTesting;Persist Security Info=True;User ID=sa;Password=popular;Pooling=False";
             sqlConnection = new SqlConnection(connectionString);
             ShowZoos();
         }
 
         private void ShowZoos()
         {
+            sqlConnection.Open();
             string query = "SELECT * FROM Zoo";
             // The SqlDataAdapter can be imagined like an interface to make Tables usable by C#-Objects
             SqlDataAdapter sqlDataAdapter = new SqlDataAdapter(query, sqlConnection);
@@ -47,12 +48,13 @@ namespace WPF_ZooManager
                 sqlDataAdapter.Fill(zooTable);
 
                 // Which information of the Table in DataTable should be shown in our ListBox?
-                listZoos.DisplayMemberPath = "location";
+                listZoos.DisplayMemberPath = "Location";
                 // Which Value should be delivered, when an Item from our ListBox is selected
                 listZoos.SelectedValuePath = "Id";
                 // The Reference to the Data the ListBox should populate
                 listZoos.ItemsSource = zooTable.DefaultView;
             }
+            sqlConnection.Close();
         }
 
         private void listZoos_SelectionChanged(object sender, SelectionChangedEventArgs e)
