@@ -14,6 +14,7 @@ namespace LINQToObjectAndQueryOperators
             um.FemaleStudents();
             um.SortStudentsByAge();
             um.AllStudentsFromBeijingTech();
+            um.StudentAndUniversityNameCollection();
 
             int input = Convert.ToInt32(System.Console.ReadLine());
             um.AllStudentsFromBeijingTech(input);
@@ -126,7 +127,21 @@ namespace LINQToObjectAndQueryOperators
             {
                 student.Print();
             }
-        }              
+        }
+
+        public void StudentAndUniversityNameCollection()
+        {
+            var newCollection = from student in students
+                                join university in universities on student.UniversityId equals university.Id
+                                orderby student.Name
+                                select new { StudentName = student.Name, UniversityName = university.Name};
+
+            System.Console.WriteLine("New Collection: ");
+            foreach(var col in newCollection)
+            {
+                System.Console.WriteLine("Student {0} from University {1}", col.StudentName, col.UniversityName);
+            }
+        }
     }
 
     class University
