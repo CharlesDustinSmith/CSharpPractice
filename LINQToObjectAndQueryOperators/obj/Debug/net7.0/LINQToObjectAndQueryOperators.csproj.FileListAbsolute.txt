@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\bin\Debug\net7.0\LINQToObjectAndQueryOperators.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\bin\Debug\net7.0\LINQToObjectAndQueryOperators.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\bin\Debug\net7.0\LINQToObjectAndQueryOperators.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\bin\Debug\net7.0\LINQToObjectAndQueryOperators.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\bin\Debug\net7.0\LINQToObjectAndQueryOperators.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\refint\LINQToObjectAndQueryOperators.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\LINQToObjectAndQueryOperators.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LINQToObjectAndQueryOperators\obj\Debug\net7.0\ref\LINQToObjectAndQueryOperators.dll
