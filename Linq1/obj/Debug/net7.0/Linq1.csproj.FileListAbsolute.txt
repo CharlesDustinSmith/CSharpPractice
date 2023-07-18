@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\bin\Debug\net7.0\Linq1.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\bin\Debug\net7.0\Linq1.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\bin\Debug\net7.0\Linq1.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\bin\Debug\net7.0\Linq1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\bin\Debug\net7.0\Linq1.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\refint\Linq1.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\Linq1.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\Linq1\obj\Debug\net7.0\ref\Linq1.dll

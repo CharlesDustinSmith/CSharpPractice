@@ -151,7 +151,6 @@ namespace WPF_ZooManager
                 sqlConnection.Close();
                 ShowZoos();
             }
-
         }
 
         private void AddZoo_Click(object sender, RoutedEventArgs e)
