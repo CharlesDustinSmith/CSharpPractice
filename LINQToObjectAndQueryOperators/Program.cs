@@ -12,6 +12,35 @@ namespace LINQToObjectAndQueryOperators
             UniversityManager um = new UniversityManager();
             um.MaleStudents();
             um.FemaleStudents();
+            um.SortStudentsByAge();
+            um.AllStudentsFromBeijingTech();
+
+            int input = Convert.ToInt32(System.Console.ReadLine());
+            um.AllStudentsFromBeijingTech(input);
+
+            int[] someInts = {30, 12, 4, 3, 12};
+            IEnumerable<int> sortedInts = from i in someInts orderby i select i;
+            IEnumerable<int> reverseInts = sortedInts.Reverse();
+
+            System.Console.WriteLine("Printing Sorted Arrays: ");
+            foreach(int i in sortedInts)
+            {
+                System.Console.WriteLine(i);
+            }
+            
+            System.Console.WriteLine("Printing Sorted Reverse Arrays: ");
+            foreach(int i in reverseInts)
+            {
+                System.Console.WriteLine(i);
+            }
+
+            // or 
+            IEnumerable<int> reversedSortedInts = from i in someInts orderby i descending select i;
+            System.Console.WriteLine("Printing Sorted Reverse Arrays Pt 2: ");
+            foreach(int i in reversedSortedInts)
+            {
+                System.Console.WriteLine(i);
+            }            
 
         }
     }
@@ -58,7 +87,46 @@ namespace LINQToObjectAndQueryOperators
             {
                 student.Print();
             }
-        }        
+        }  
+
+        public void SortStudentsByAge()
+        {
+            var sortedStudents = from student in students orderby student.Age select student;
+            
+            System.Console.WriteLine("Students sorted by Age: ");
+            foreach(Student student in sortedStudents)
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromBeijingTech()
+        {
+            IEnumerable<Student> bjtStudents = from student in students
+                                                join university in universities on student.UniversityId equals university.Id
+                                                where university.Name == "Beijing Tech"
+                                                select student;
+
+            System.Console.WriteLine("Students from Beijin Tech: ");
+            foreach(Student student in bjtStudents) 
+            {
+                student.Print();
+            }
+        }
+
+        public void AllStudentsFromBeijingTech(int id)
+        {
+            IEnumerable<Student> bjtStudents = from student in students
+                                                join university in universities on student.UniversityId equals university.Id
+                                                where university.Id == id
+                                                select student;
+
+            System.Console.WriteLine("Students from Beijin Tech:  ID: {0}", id);
+            foreach(Student student in bjtStudents) 
+            {
+                student.Print();
+            }
+        }              
     }
 
     class University
