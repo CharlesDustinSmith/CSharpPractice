@@ -30,7 +30,8 @@ namespace FileIOc // Note: actual namespace depends on the project name.
                 "third line 23",
                 "forth line third",
                 "fifth line",
-                "sixth line third"
+                "sixth line third", 
+                "seventh line 23"
             };
 
             File.WriteAllLines(currentDirectoey + "/textfile2.txt", lines);
