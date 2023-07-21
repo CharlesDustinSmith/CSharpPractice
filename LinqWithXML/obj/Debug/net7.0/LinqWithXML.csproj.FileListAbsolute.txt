@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\bin\Debug\net7.0\LinqWithXML.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\bin\Debug\net7.0\LinqWithXML.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\bin\Debug\net7.0\LinqWithXML.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\bin\Debug\net7.0\LinqWithXML.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\bin\Debug\net7.0\LinqWithXML.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\refint\LinqWithXML.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\LinqWithXML.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\LinqWithXML\obj\Debug\net7.0\ref\LinqWithXML.dll
