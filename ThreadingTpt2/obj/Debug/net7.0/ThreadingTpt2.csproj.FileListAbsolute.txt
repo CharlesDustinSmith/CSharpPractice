@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\bin\Debug\net7.0\ThreadingTpt2.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\bin\Debug\net7.0\ThreadingTpt2.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\bin\Debug\net7.0\ThreadingTpt2.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\bin\Debug\net7.0\ThreadingTpt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\bin\Debug\net7.0\ThreadingTpt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\refint\ThreadingTpt2.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ThreadingTpt2.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt2\obj\Debug\net7.0\ref\ThreadingTpt2.dll
