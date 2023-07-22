@@ -18,7 +18,6 @@ namespace ThreadingTpt3
 
             // The ThreadPool example 
             Enumerable.Range(0, 100).ToList().ForEach(f => {
-
                 ThreadPool.QueueUserWorkItem((o) => 
                 {
                     System.Console.WriteLine("Thread number: {0} started", Thread.CurrentThread.ManagedThreadId);
@@ -27,7 +26,7 @@ namespace ThreadingTpt3
                 });
 
                 Console.ReadLine();
-
+                
                 new Thread(() => {
                     System.Console.WriteLine("Thread number: {0} started", Thread.CurrentThread.ManagedThreadId);
                     Thread.Sleep(3000);
