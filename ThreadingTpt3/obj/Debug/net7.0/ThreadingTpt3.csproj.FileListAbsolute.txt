@@ -1,0 +1,15 @@
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\bin\Debug\net7.0\ThreadingTpt3.exe
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\bin\Debug\net7.0\ThreadingTpt3.deps.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\bin\Debug\net7.0\ThreadingTpt3.runtimeconfig.json
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\bin\Debug\net7.0\ThreadingTpt3.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\bin\Debug\net7.0\ThreadingTpt3.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.csproj.AssemblyReference.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.AssemblyInfoInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.AssemblyInfo.cs
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.csproj.CoreCompileInputs.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\refint\ThreadingTpt3.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.pdb
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ThreadingTpt3.genruntimeconfig.cache
+C:\Users\cdsmi\OneDrive\Documents\CSharp\ThreadingTpt3\obj\Debug\net7.0\ref\ThreadingTpt3.dll
