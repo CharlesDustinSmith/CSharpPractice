@@ -1,8 +1,19 @@
 using Calculator;
+using FluentAssertions;
+
 namespace CalculatorTest;
 
-public class UnitTest1
+public class CalculatorTest
 {
+
+    // Getting rid of the if statement using Fluent Assertions
+    // To install do the following, run: 
+    // dotnet add package FluentAssertions
+    [Fact]
+    public void Fluent_Assertion_Test_1()
+        => new CalculatorFuncs()
+            .Sum(2, 2)
+            .Should().Be(4);  
 
     // Example of Test driven development create the function testing it first
     // Then move it into the production code.
@@ -32,7 +43,7 @@ public class UnitTest1
         int result2 = cal.Sum(2, 2);
 
         // Assert
-        Assert.Equal(7, result1);
+        Assert.Equal(5, result1);
         Assert.Equal(4, result2);        
     }
 

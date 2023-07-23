@@ -100,3 +100,7 @@ C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\obj\Debug\net7.0\refint\
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\obj\Debug\net7.0\CalculatorTest.pdb
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\obj\Debug\net7.0\CalculatorTest.genruntimeconfig.cache
 C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\obj\Debug\net7.0\ref\CalculatorTest.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\bin\Debug\net7.0\FluentAssertions.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\cdsmi\OneDrive\Documents\CSharp\CalculatorTest\bin\Debug\net7.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
