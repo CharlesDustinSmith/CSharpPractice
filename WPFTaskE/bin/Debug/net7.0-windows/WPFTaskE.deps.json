@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "WPFTaskE/1.0.0": {
+        "runtime": {
+          "WPFTaskE.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WPFTaskE/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
