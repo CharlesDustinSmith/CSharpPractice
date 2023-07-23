@@ -9,10 +9,11 @@ public class UnitTest1
     [Fact]
     public void Sum_of_2_and_2_should_be_4()
     {
-        var result = Sum(2, 2);
+        int result = Sum(2, 2);
+        // result = 10;
         if(result != 4)
         {
-            throw new Exception();
+            throw new Exception($"The Sum(2,2) should return 4, but we recieved {result}.\n");
         }
     }
 
@@ -31,7 +32,7 @@ public class UnitTest1
         int result2 = cal.Sum(2, 2);
 
         // Assert
-        Assert.Equal(5, result1);
+        Assert.Equal(7, result1);
         Assert.Equal(4, result2);        
     }
 
