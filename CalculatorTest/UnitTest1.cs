@@ -5,13 +5,15 @@ namespace CalculatorTest;
 
 public class CalculatorTest
 {
+    // This parameterized test allow for reusablity of test functions.
+    // We are running the AddingParameterize test a total of four times.  
     // Parameterized Test
     [Theory]
     [InlineData(3, 1)]
     [InlineData(1, 2)]
     [InlineData(3, 3)]
     [InlineData(3, 4)]
-    public void addingParamaterize(int x, int y)
+    public void AddingParamaterize(int x, int y)
     {
         int result = x + y;
         Assert.Equal(result, Sum(x, y));
@@ -19,6 +21,7 @@ public class CalculatorTest
     // Getting rid of the if statement using Fluent Assertions
     // To install do the following, run: 
     // dotnet add package FluentAssertions
+    // ```dotnet test```
     [Fact]
     public void Fluent_Assertion_Test_1()
         => new CalculatorFuncs()
