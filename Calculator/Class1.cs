@@ -8,9 +8,9 @@ public class CalculatorFuncs
     public int Subtract(int left, int right)
         => left - right;   
 
-    public int multiply(int left, int right)
+    public int Multiply(int left, int right)
         => left * right;
     
-    public int divide(int left, int right)
+    public int Divide(int left, int right)
         => left / right;
 }
