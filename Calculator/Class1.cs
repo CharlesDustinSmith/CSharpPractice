@@ -7,4 +7,10 @@ public class CalculatorFuncs
 
     public int Subtract(int left, int right)
         => left - right;   
+
+    public int multiply(int left, int right)
+        => left * right;
+    
+    public int divide(int left, int right)
+        => left / right;
 }
