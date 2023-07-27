@@ -13,4 +13,7 @@ public class CalculatorFuncs
     
     public int Divide(int left, int right)
         => left / right;
+    
+    public int CircleArea(int diameter)
+        => ((diameter / 2)^2) * Math.PI; 
 }
