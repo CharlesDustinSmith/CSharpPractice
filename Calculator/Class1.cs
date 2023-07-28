@@ -15,5 +15,11 @@ public class CalculatorFuncs
         => left / right;
     
     public int CircleArea(int diameter)
-        => ((diameter / 2)^2) * Math.PI; 
+        => ((diameter / 2)^2) * Math.PI;
+
+    public int CubeVolume(int side)
+        => (side^3);
+
+    public int PrismVolume(int areaOfBase, int height)
+        => (areaOfBase * height);
 }
