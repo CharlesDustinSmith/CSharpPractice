@@ -17,6 +17,9 @@ public class CalculatorFuncs
     public int CircleArea(int diameter)
         => ((diameter / 2)^2) * Math.PI;
 
+    public int TriangleArea(int height, int b)
+        => (0.5 * height * b);
+
     public int CubeVolume(int side)
         => (side^3);
 
