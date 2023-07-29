@@ -25,4 +25,8 @@ public class CalculatorFuncs
 
     public int PrismVolume(int areaOfBase, int height)
         => (areaOfBase * height);
+
+    public int PyramidVolume(int h, int b)
+        => ((1/3) * h * b);
+
 }
