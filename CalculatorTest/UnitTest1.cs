@@ -13,6 +13,8 @@ public class CalculatorTest
     [InlineData(1, 2)]
     [InlineData(3, 3)]
     [InlineData(3, 4)]
+    [InlineData(7, 9)]
+    [InlineData(10, 0)]    
     public void AddingParamaterize(int x, int y)
     {
         int result = x + y;
