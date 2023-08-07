@@ -1,6 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using System;
 using System.Threading;
+using System.Net.Http;
 
 namespace ThreadJoiningE
 {
@@ -8,6 +9,18 @@ namespace ThreadJoiningE
     {
         static void Main(string[] args)
         {
+
+            string url = "https://api.example.com/data";
+            string response = await GetApiResponse(url);
+            if(response == null)
+            {
+                System.Console.WriteLine("No data was received!!!");
+            }
+            else
+            {
+                System.Console.WriteLine("Received Data : \n{0}", response);
+            }
+
             System.Console.WriteLine("Main Thread started");
             Thread thread1 = new Thread(Thread1Function);
             Thread thread2 = new Thread(Thread2Function);
@@ -58,5 +71,35 @@ namespace ThreadJoiningE
             System.Console.WriteLine("Thread2 Function coming back to main");
 
         }
+
+        private async Task<string> GetApiResponse(string url)
+        {
+            using (HttpClient httpClient = new HttpClient())
+            {
+                try
+                {
+                    HttpResponseMessage response = await httpClient.GetAsync(url);
+
+                    if (response.IsSuccessStatusCode)
+                    {
+                        // Read the content of the response as a string
+                        return await response.Content.ReadAsStringAsync();
+                    }
+                    else
+                    {
+                        // Handle non-successful responses here if needed
+                        // For example, you can throw an exception or return null
+                        return null;
+                    }
+                }
+                catch (HttpRequestException ex)
+                {
+                    // Handle any exceptions that occurred during the request
+                    // For example, handle network errors
+                    return null;
+                }
+            }
+        }
+
     }
 }

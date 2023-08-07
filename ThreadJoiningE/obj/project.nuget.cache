@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/gHNJ9QKqdz/Ac/MA79v9aC125ropiooBDyX85EkYxSriEYo4SgcHLYqqW959CZ4h+ypgVUZKl2FUe7oSHpENA==",
+  "dgSpecHash": "OlgHZtvmbScZIQPszMT3QVrvztCdv5pM3m40MLsrGuTTLZWEMRIr2l7jd4gLTOtjfNVsv4LajAU+0ldeeU3ZNA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\cdsmi\\OneDrive\\Documents\\CSharp\\ThreadJoiningE\\ThreadJoiningE.csproj",
+  "projectFilePath": "/home/charlessmith/csharp-development/CSharpPractice/ThreadJoiningE/ThreadJoiningE.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
